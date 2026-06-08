@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-04-14T00:22:58",
+  "frame_count": 30,
+  "center_distance_mm": 277,
+  "sensor": "Samsung iToF DEPTH16",
+  "depth_range_mm": [0, 8191],
+  "confidence_range": [0, 7],
+  "path": "/storage/emulated/0/Android/data/com.example.eyesense/files/EyeSense/session_20260414_002251"
+}
